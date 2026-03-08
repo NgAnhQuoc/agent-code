@@ -1,0 +1,10 @@
+{
+  "name": "whmcs-module-assets",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Building assets for development...'"
+  },
+  "devDependencies": {
+  }
+}
