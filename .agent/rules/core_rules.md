@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # WHMCS Core (vnx-whmcs-v3) Development Rules
 
 Rules for developing the WHMCS core source code, global hooks, and main templates.
